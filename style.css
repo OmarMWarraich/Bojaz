@@ -1,0 +1,82 @@
+.navbar {
+    background-color:#4CAF50 !important;
+}
+.nav-link {
+    color:#fff !important;
+    font-weight: bold !important;
+}
+.fa-user, .fa-shopping-cart {
+    font-size: 32px !important;
+}
+
+.mainCard{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;    
+}
+
+.card1, .card2, .card3 {
+    display:flex;
+    widows: 300px;;
+    height:100px;
+    background-color:#fff;
+    box-shadow:2px 4px 5px grey;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    
+
+}
+
+.fa-truck, .fa-thumbs-up, .fa-headphones {
+    font-size: 50px !important;
+    margin-right: 10px;
+    color: #4CAF50;
+    
+}
+
+h3 {
+    color:#4CAF50
+}
+
+.newarrivals {
+    margin-top: 50px;
+}
+
+.card {
+    width: 250px;
+    height: auto;
+    margin: 5px;
+}
+
+.btn btn-primary {
+    width: 100%;
+    background-color: #4CAF50 !important;
+}
+
+.heading {
+    text-align: center;
+    font-weight: bold;
+    color: #4CAF50;
+    margin: 20px;
+}
+.footer {
+    width: 100%;
+    background-color: #4CAF50;
+    height:70px;
+}
+
+.footer > div {
+    text-align: center;
+}
+h4 {
+    color: #fff;
+}
+
+@media screen and (max-width:600px) {
+    .card1,.card2,.card3 {
+        width: 100% !important;
+    }
+}
