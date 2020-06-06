@@ -1,2 +1,0 @@
-# Bojaz
-Assignment4
