@@ -9,6 +9,24 @@
     font-size: 32px !important;
 }
 
+.navbar-brand {
+    margin-left: 50px !important;
+}
+    
+
+.fa-facebook, .fa-instagram, .fa-youtube, .fa-twitter, .fa-whatsapp, .navbar-brand {
+    margin-left: 32px;
+    color: #fff;
+    font-size: 24px !important;
+}
+
+.navbar-text {
+    margin-left: 50px;
+}
+.navbar-nav {
+    margin-left: 100px !important;
+}
+
 .mainCard{
     margin-top: 30px;
     display: flex;
